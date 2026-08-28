@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <status>100</status>
+  <command>reply</command>
+  <session_id>mldt144gh7fk6blikl7qri7fji</session_id>
+  <order>
+    <order_id>4012144</order_id>
+    <order_type>T</order_type>
+    <delivery_date>29.09.2026</delivery_date>
+    <commission>Schneider</commission>
+    <shop>
+      <id>10800</id>
+      <name>123GOLD Trauring-Zentrum Main-Taunus-Zentrum</name>
+      <id_se>10800</id_se>
+    </shop>
+    <addon_text />
+    <brand_id>13</brand_id>
+    <info_alerts>
+      <notes>0</notes>
+      <files>0</files>
+    </info_alerts>
+    <articel>
+      <itemnumber>M-11QMSQ-WA-22VHX9Z</itemnumber>
+      <order_position_id>4012144-1</order_position_id>
+      <supplierItemnumber />
+      <addon_text />
+      <size>
+        <dimension>50</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>898,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>14.11.2026 #S02</text>
+          <font_id>96</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Merii</brand>
+        <pline>13</pline>
+        <ring_type>1</ring_type>
+        <profile>(M4) innen und außen leicht bombiert mit Glanzkante</profile>
+        <weight>4,2</weight>
+        <width>4,00</width>
+        <height>1,80</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>M4</profile>
+          <height>9</height>
+          <width>5</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Palladium 950/-</alloy>
+          <surface>quermatt</surface>
+          <width>4,00</width>
+          <height>1,80</height>
+          <ratio>100,00</ratio>
+          <weight>4,20</weight>
+          <keys>
+            <alloy>120</alloy>
+            <surface>4</surface>
+          </keys>
+        </discs>
+        <interstices>
+          <id>1</id>
+          <width>0,5</width>
+          <pos>2</pos>
+          <degree>0</degree>
+          <type>V-Fuge</type>
+          <key>V1</key>
+        </interstices>
+        <stone_groups>
+          <text>
+            <libraryStone />
+            <number>1</number>
+            <size>0.05</size>
+            <prafix />
+            <quality>, LAB - e, vs2</quality>
+          </text>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>LAB - e, vs2</quality>
+            <quality_short>LAB - e, vs2</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillant eingerieben</mounttype>
+            <type>Brillant eingerieben</type>
+            <number>1</number>
+            <prafix />
+            <size>0,05</size>
+            <size_sum>0,05</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>R</object>
+              <arrangement>A</arrangement>
+              <fine_positioning>no</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>0,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>0</pos_x>
+                  <pos_y>2</pos_y>
+                  <no>1</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>2,30</width>
+            <length>2,30</length>
+            <height>1,40</height>
+            <diameter>2,30</diameter>
+            <clamping />
+            <keys>
+              <type>AA</type>
+              <quality />
+              <mounttype />
+              <form />
+              <stone_number>1</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>1</stone_no>
+          </stones>
+        </stone_groups>
+      </description>
+      <price>
+        <facon>282</facon>
+        <material>559</material>
+        <stone>57</stone>
+        <gravure>0</gravure>
+        <base_ring>841</base_ring>
+        <base_stone>57</base_stone>
+        <base_ring_without_discount>841</base_ring_without_discount>
+        <base_price>898</base_price>
+        <stoneParts>57</stoneParts>
+        <dbourseParts>0</dbourseParts>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+    <articel>
+      <itemnumber>M-1E5E9C-WA</itemnumber>
+      <order_position_id>4012144-2</order_position_id>
+      <supplierItemnumber />
+      <addon_text />
+      <size>
+        <dimension>67</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>1.072,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>14.11.2026 #S02</text>
+          <font_id>96</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Merii</brand>
+        <pline>13</pline>
+        <ring_type>1</ring_type>
+        <profile>(M4) innen und außen leicht bombiert mit Glanzkante</profile>
+        <weight>7,82</weight>
+        <width>5,00</width>
+        <height>2,00</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>M4</profile>
+          <height>11</height>
+          <width>7</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Palladium 950/-</alloy>
+          <surface>quermatt</surface>
+          <width>5,00</width>
+          <height>2,00</height>
+          <ratio>100,00</ratio>
+          <weight>7,82</weight>
+          <keys>
+            <alloy>120</alloy>
+            <surface>4</surface>
+          </keys>
+        </discs>
+        <interstices>
+          <id>1</id>
+          <width>0,5</width>
+          <pos>2,5</pos>
+          <degree>0</degree>
+          <type>V-Fuge</type>
+          <key>V1</key>
+        </interstices>
+      </description>
+      <price>
+        <facon>296</facon>
+        <material>776</material>
+        <stone>0</stone>
+        <gravure>0</gravure>
+        <base_ring>1072</base_ring>
+        <base_stone>0</base_stone>
+        <base_ring_without_discount>1072</base_ring_without_discount>
+        <base_price>1072</base_price>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+  </order>
+</package>

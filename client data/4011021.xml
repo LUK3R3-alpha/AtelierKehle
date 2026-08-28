@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <status>100</status>
+  <command>reply</command>
+  <session_id>lmm8bl7nk5pnvdcsvq9uena842</session_id>
+  <order>
+    <order_id>4011021</order_id>
+    <order_type>T</order_type>
+    <delivery_date>25.09.2026</delivery_date>
+    <commission>Diener</commission>
+    <shop>
+      <id>10004</id>
+      <name>123GOLD Trauring-Zentrum München</name>
+      <id_se>10004</id_se>
+    </shop>
+    <addon_text />
+    <brand_id>13</brand_id>
+    <info_alerts>
+      <notes>0</notes>
+      <files>0</files>
+    </info_alerts>
+    <articel>
+      <itemnumber>M-115N1Q-RR1-1VJP43Z</itemnumber>
+      <order_position_id>4011021-1</order_position_id>
+      <supplierItemnumber />
+      <addon_text />
+      <size>
+        <dimension>59</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>1.220,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>Mario 10.10.26 #S06</text>
+          <font_id>83</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Merii</brand>
+        <pline>13</pline>
+        <ring_type>1</ring_type>
+        <profile>(M9) außen leicht bombiert, innen v-förmig</profile>
+        <weight>5,67</weight>
+        <width>4,50</width>
+        <height>1,90</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>M9</profile>
+          <height>10</height>
+          <width>6</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Rotgold 375/-</alloy>
+          <surface>poliert</surface>
+          <width>2,25</width>
+          <height>1,90</height>
+          <ratio>50,00</ratio>
+          <weight>2,84</weight>
+          <keys>
+            <alloy>117</alloy>
+            <surface>1</surface>
+          </keys>
+        </discs>
+        <discs>
+          <id>2</id>
+          <alloy>Rotgold 375/-</alloy>
+          <surface>eismatt</surface>
+          <width>2,25</width>
+          <height>1,90</height>
+          <ratio>50,00</ratio>
+          <weight>2,84</weight>
+          <keys>
+            <alloy>117</alloy>
+            <surface>8</surface>
+          </keys>
+        </discs>
+        <interstices>
+          <id>1</id>
+          <width>0,5</width>
+          <pos>2,25</pos>
+          <degree>0</degree>
+          <type>V-Fuge</type>
+          <key>V1</key>
+        </interstices>
+        <stone_groups>
+          <text>
+            <libraryStone />
+            <number>10</number>
+            <size>0.1</size>
+            <prafix />
+            <quality>, tw, if</quality>
+          </text>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>feines weiß, lupenrein</quality>
+            <quality_short>tw, if</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillantschliff im Verschnitt</mounttype>
+            <type>Brillantschliff im Verschnitt</type>
+            <number>10</number>
+            <prafix />
+            <size>0,01</size>
+            <size_sum>0,1</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>D1</object>
+              <arrangement>A</arrangement>
+              <fine_positioning>no</fine_positioning>
+            </start_point>
+            <allocation>0</allocation>
+            <distance>
+              <abs>0,15</abs>
+              <factor>0,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>0,725</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>1</no>
+                </pos>
+                <pos>
+                  <pos_x>-0,725</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>2</no>
+                </pos>
+                <pos>
+                  <pos_x>2,175</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>3</no>
+                </pos>
+                <pos>
+                  <pos_x>-2,175</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>4</no>
+                </pos>
+                <pos>
+                  <pos_x>3,625</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>5</no>
+                </pos>
+                <pos>
+                  <pos_x>-3,625</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>6</no>
+                </pos>
+                <pos>
+                  <pos_x>5,075</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>7</no>
+                </pos>
+                <pos>
+                  <pos_x>-5,075</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>8</no>
+                </pos>
+                <pos>
+                  <pos_x>6,525</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>9</no>
+                </pos>
+                <pos>
+                  <pos_x>-6,525</pos_x>
+                  <pos_y>1,125</pos_y>
+                  <no>10</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,30</width>
+            <length>1,30</length>
+            <height>0,80</height>
+            <diameter>1,30</diameter>
+            <clamping />
+            <keys>
+              <type>MA</type>
+              <quality />
+              <mounttype />
+              <form />
+              <stone_number>10</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>1</stone_no>
+          </stones>
+        </stone_groups>
+      </description>
+      <price>
+        <facon>186</facon>
+        <material>708</material>
+        <stone>369</stone>
+        <gravure>0</gravure>
+        <base_ring>894</base_ring>
+        <base_stone>369</base_stone>
+        <base_ring_without_discount>894</base_ring_without_discount>
+        <base_price>1263</base_price>
+        <stoneParts>369</stoneParts>
+        <dbourseParts>0</dbourseParts>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+    <articel>
+      <itemnumber>M-115N1Q-RR5</itemnumber>
+      <order_position_id>4011021-2</order_position_id>
+      <supplierItemnumber />
+      <addon_text />
+      <size>
+        <dimension>64</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>1.496,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>Cristin 10.10.26 #S06</text>
+          <font_id>83</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Merii</brand>
+        <pline>13</pline>
+        <ring_type>1</ring_type>
+        <profile>(M9) außen leicht bombiert, innen v-förmig</profile>
+        <weight>7,5</weight>
+        <width>4,50</width>
+        <height>1,90</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>M9</profile>
+          <height>10</height>
+          <width>6</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Rotgold 585/-</alloy>
+          <surface>poliert</surface>
+          <width>2,25</width>
+          <height>1,90</height>
+          <ratio>50,00</ratio>
+          <weight>3,75</weight>
+          <keys>
+            <alloy>27</alloy>
+            <surface>1</surface>
+          </keys>
+        </discs>
+        <discs>
+          <id>2</id>
+          <alloy>Rotgold 585/-</alloy>
+          <surface>eismatt</surface>
+          <width>2,25</width>
+          <height>1,90</height>
+          <ratio>50,00</ratio>
+          <weight>3,75</weight>
+          <keys>
+            <alloy>27</alloy>
+            <surface>8</surface>
+          </keys>
+        </discs>
+        <interstices>
+          <id>1</id>
+          <width>0,5</width>
+          <pos>2,25</pos>
+          <degree>0</degree>
+          <type>V-Fuge</type>
+          <key>V1</key>
+        </interstices>
+      </description>
+      <price>
+        <facon>185</facon>
+        <material>1.396</material>
+        <stone>0</stone>
+        <gravure>0</gravure>
+        <base_ring>1581</base_ring>
+        <base_stone>0</base_stone>
+        <base_ring_without_discount>1581</base_ring_without_discount>
+        <base_price>1581</base_price>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+  </order>
+</package>

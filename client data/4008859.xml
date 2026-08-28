@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <status>100</status>
+  <command>reply</command>
+  <session_id>j1acc2e0dgmmk6idbhkqibb8q8</session_id>
+  <order>
+    <order_id>4008859</order_id>
+    <order_type>S</order_type>
+    <service>
+      <service_type>4</service_type>
+      <service_type_text>Steinersatz</service_type_text>
+      <service_reason />
+      <service_reason_text />
+      <service_level>3</service_level>
+      <service_level_text>Rechnung an Shop</service_level_text>
+    </service>
+    <delivery_date>17.08.2026</delivery_date>
+    <commission>Czernoch</commission>
+    <shop>
+      <id>90010011</id>
+      <name>Bacio d`oro Handels GmbH</name>
+      <id_se>30300</id_se>
+    </shop>
+    <addon_text />
+    <brand_id>15</brand_id>
+    <info_alerts>
+      <notes>0</notes>
+      <files>1</files>
+    </info_alerts>
+    <articel>
+      <itemnumber>P-36DIP-WG9-20Y7L0Z</itemnumber>
+      <order_position_id>4008859-1</order_position_id>
+      <supplierItemnumber />
+      <addon_text>Ring kommt retour, da leider der Stein verloren gegangen ist. Bitte diesen ersetzen. Davor hätten wir gerne einen KVA im Voraus. Danke</addon_text>
+      <size>
+        <dimension>56</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>0</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text />
+          <font_id>0</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Eternal Touch - par excellence</brand>
+        <pline>60</pline>
+        <ring_type>2</ring_type>
+        <profile>Geschwungener Axialring</profile>
+        <weight>16,48</weight>
+        <width>7,00</width>
+        <height>2,50</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet>P-1043-1</masterSet>
+        <keys>
+          <profile />
+          <height>16</height>
+          <width>11</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Platin 950/-</alloy>
+          <surface>längsmatt</surface>
+          <width>7,00</width>
+          <height>1,20</height>
+          <ratio>48,00</ratio>
+          <weight>9,37</weight>
+          <keys>
+            <alloy>121</alloy>
+            <surface>3</surface>
+          </keys>
+        </discs>
+        <discs>
+          <id>2</id>
+          <alloy>Gelbgold 750/-</alloy>
+          <surface>poliert</surface>
+          <width>7,00</width>
+          <height>1,30</height>
+          <ratio>52,00</ratio>
+          <weight>7,11</weight>
+          <keys>
+            <alloy>26</alloy>
+            <surface>1</surface>
+          </keys>
+        </discs>
+        <stone_groups>
+          <text>
+            <libraryStone />
+            <number>6</number>
+            <size>0.225</size>
+            <prafix />
+            <quality>, r, if</quality>
+          </text>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>river, lupenrein</quality>
+            <quality_short>r, if</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillant eingerieben</mounttype>
+            <type>Brillant eingerieben</type>
+            <number>1</number>
+            <prafix />
+            <size>0,01</size>
+            <size_sum>0,01</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>R</object>
+              <arrangement>L</arrangement>
+              <fine_positioning>yes</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>1,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>6</pos_x>
+                  <pos_y>3,702</pos_y>
+                  <no>1</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,30</width>
+            <length>1,30</length>
+            <height>0,80</height>
+            <diameter>1,30</diameter>
+            <clamping />
+            <keys>
+              <type />
+              <quality>4</quality>
+              <mounttype>1</mounttype>
+              <form />
+              <stone_number>1</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>1</stone_no>
+          </stones>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>river, lupenrein</quality>
+            <quality_short>r, if</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillant eingerieben</mounttype>
+            <type>Brillant eingerieben</type>
+            <number>1</number>
+            <prafix />
+            <size>0,01</size>
+            <size_sum>0,01</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>R</object>
+              <arrangement>L</arrangement>
+              <fine_positioning>yes</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>1,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>-4,5</pos_x>
+                  <pos_y>1,532</pos_y>
+                  <no>2</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,30</width>
+            <length>1,30</length>
+            <height>0,80</height>
+            <diameter>1,30</diameter>
+            <clamping />
+            <keys>
+              <type />
+              <quality>4</quality>
+              <mounttype>1</mounttype>
+              <form />
+              <stone_number>1</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>2</stone_no>
+          </stones>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>river, lupenrein</quality>
+            <quality_short>r, if</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillant eingerieben</mounttype>
+            <type>Brillant eingerieben</type>
+            <number>1</number>
+            <prafix />
+            <size>0,02</size>
+            <size_sum>0,02</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>R</object>
+              <arrangement>L</arrangement>
+              <fine_positioning>yes</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>1,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>3,5</pos_x>
+                  <pos_y>1,532</pos_y>
+                  <no>3</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,70</width>
+            <length>1,70</length>
+            <height>1,00</height>
+            <diameter>1,70</diameter>
+            <clamping />
+            <keys>
+              <type />
+              <quality>4</quality>
+              <mounttype>1</mounttype>
+              <form />
+              <stone_number>1</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>3</stone_no>
+          </stones>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>river, lupenrein</quality>
+            <quality_short>r, if</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillant eingerieben</mounttype>
+            <type>Brillant eingerieben</type>
+            <number>1</number>
+            <prafix />
+            <size>0,02</size>
+            <size_sum>0,02</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>R</object>
+              <arrangement>L</arrangement>
+              <fine_positioning>yes</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>1,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>-3</pos_x>
+                  <pos_y>3,502</pos_y>
+                  <no>4</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,70</width>
+            <length>1,70</length>
+            <height>1,00</height>
+            <diameter>1,70</diameter>
+            <clamping />
+            <keys>
+              <type />
+              <quality>4</quality>
+              <mounttype>1</mounttype>
+              <form />
+              <stone_number>1</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>4</stone_no>
+          </stones>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>river, lupenrein</quality>
+            <quality_short>r, if</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillant eingerieben</mounttype>
+            <type>Brillant eingerieben</type>
+            <number>1</number>
+            <prafix />
+            <size>0,15</size>
+            <size_sum>0,15</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>R</object>
+              <arrangement>L</arrangement>
+              <fine_positioning>yes</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>0,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>0</pos_x>
+                  <pos_y>2,702</pos_y>
+                  <no>5</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>3,40</width>
+            <length>3,40</length>
+            <height>2,00</height>
+            <diameter>3,40</diameter>
+            <clamping />
+            <keys>
+              <type />
+              <quality>4</quality>
+              <mounttype>1</mounttype>
+              <form />
+              <stone_number>1</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>5</stone_no>
+          </stones>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>river, lupenrein</quality>
+            <quality_short>r, if</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillant eingerieben</mounttype>
+            <type>Brillant eingerieben</type>
+            <number>1</number>
+            <prafix />
+            <size>0,015</size>
+            <size_sum>0,015</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>R</object>
+              <arrangement>L</arrangement>
+              <fine_positioning>no</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>1,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>3</pos_x>
+                  <pos_y>4,862</pos_y>
+                  <no>6</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,50</width>
+            <length>1,50</length>
+            <height>0,90</height>
+            <diameter>1,50</diameter>
+            <clamping />
+            <keys>
+              <type />
+              <quality>4</quality>
+              <mounttype>1</mounttype>
+              <form />
+              <stone_number>1</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>6</stone_no>
+          </stones>
+        </stone_groups>
+      </description>
+      <price>
+        <facon>729</facon>
+        <material>3.236</material>
+        <stone>863</stone>
+        <gravure>0</gravure>
+        <base_ring>3965</base_ring>
+        <base_stone>863</base_stone>
+        <base_ring_without_discount>3965</base_ring_without_discount>
+        <base_price>4828</base_price>
+        <stoneParts>79</stoneParts>
+        <stoneParts>49</stoneParts>
+        <stoneParts>79</stoneParts>
+        <stoneParts>79</stoneParts>
+        <stoneParts>513</stoneParts>
+        <stoneParts>64</stoneParts>
+        <dbourseParts>0</dbourseParts>
+        <dbourseParts>0</dbourseParts>
+        <dbourseParts>0</dbourseParts>
+        <dbourseParts>0</dbourseParts>
+        <dbourseParts>0</dbourseParts>
+        <dbourseParts>0</dbourseParts>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+  </order>
+</package>

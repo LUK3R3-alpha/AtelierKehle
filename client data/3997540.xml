@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <status>100</status>
+  <command>reply</command>
+  <session_id>59v90na7b6vsbfslrvqnb0c04j</session_id>
+  <order>
+    <order_id>3997540</order_id>
+    <order_type>T</order_type>
+    <delivery_date>02.12.2026</delivery_date>
+    <commission>Hartner</commission>
+    <shop>
+      <id>10158</id>
+      <name>123gold Trauringzentrum Graz</name>
+      <id_se>10158</id_se>
+    </shop>
+    <addon_text />
+    <brand_id>13</brand_id>
+    <info_alerts>
+      <notes>0</notes>
+      <files>0</files>
+    </info_alerts>
+    <articel>
+      <itemnumber>M-Z945I-GG5-220AFGZ</itemnumber>
+      <order_position_id>3997540-1</order_position_id>
+      <supplierItemnumber />
+      <addon_text />
+      <size>
+        <dimension>55,5</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>1.607,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>Markus #S02 Verena #S05 24.07.2027</text>
+          <font_id>77</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Merii</brand>
+        <pline>13</pline>
+        <ring_type>1</ring_type>
+        <profile>(M1) innen und außen bombiert</profile>
+        <weight>5,29</weight>
+        <width>4,50</width>
+        <height>1,70</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>M1</profile>
+          <height>8</height>
+          <width>6</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>poliert</surface>
+          <width>2,25</width>
+          <height>1,70</height>
+          <ratio>50,00</ratio>
+          <weight>2,65</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>1</surface>
+          </keys>
+        </discs>
+        <discs>
+          <id>2</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>eismatt</surface>
+          <width>2,25</width>
+          <height>1,70</height>
+          <ratio>50,00</ratio>
+          <weight>2,65</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>8</surface>
+          </keys>
+        </discs>
+        <interstices>
+          <id>1</id>
+          <width>0,6</width>
+          <pos>2,25</pos>
+          <degree>0</degree>
+          <type>Wellenfuge U-Form</type>
+          <key>CFT24</key>
+        </interstices>
+        <stone_groups>
+          <text>
+            <libraryStone />
+            <number>1</number>
+            <size>0.04</size>
+            <prafix />
+            <quality>, tw, vs</quality>
+          </text>
+          <form_groove>1</form_groove>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>feines weiß mit sehr kleinen Einschlüssen</quality>
+            <quality_short>tw, vs</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillantschliff im Verschnitt</mounttype>
+            <type>Brillantschliff im Verschnitt</type>
+            <number>1</number>
+            <prafix />
+            <size>0,04</size>
+            <size_sum>0,04</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>0,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>I1</object>
+              <arrangement>A</arrangement>
+              <fine_positioning>no</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>0,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>0</pos_x>
+                  <pos_y>2,25</pos_y>
+                  <no>1</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>2,10</width>
+            <length>2,10</length>
+            <height>1,30</height>
+            <diameter>2,10</diameter>
+            <clamping />
+            <keys>
+              <type>MA</type>
+              <quality />
+              <mounttype />
+              <form />
+              <stone_number>1</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>1</stone_no>
+          </stones>
+        </stone_groups>
+        <stone_groups>
+          <text>
+            <libraryStone />
+            <number>2</number>
+            <size>0.02</size>
+            <prafix />
+            <quality>, tw, vs</quality>
+          </text>
+          <form_groove>1</form_groove>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>feines weiß mit sehr kleinen Einschlüssen</quality>
+            <quality_short>tw, vs</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillantschliff im Verschnitt</mounttype>
+            <type>Brillantschliff im Verschnitt</type>
+            <number>2</number>
+            <prafix />
+            <size>0,01</size>
+            <size_sum>0,02</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>13,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>I1</object>
+              <arrangement>A</arrangement>
+              <fine_positioning>no</fine_positioning>
+            </start_point>
+            <allocation>0</allocation>
+            <distance>
+              <abs>5,20</abs>
+              <factor>0,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>3,167</pos_x>
+                  <pos_y>2,981</pos_y>
+                  <no>2</no>
+                </pos>
+                <pos>
+                  <pos_x>-3,167</pos_x>
+                  <pos_y>1,519</pos_y>
+                  <no>3</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,30</width>
+            <length>1,30</length>
+            <height>0,80</height>
+            <diameter>1,30</diameter>
+            <clamping />
+            <keys>
+              <type>MA</type>
+              <quality />
+              <mounttype />
+              <form />
+              <stone_number>2</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>2</stone_no>
+          </stones>
+        </stone_groups>
+        <stone_groups>
+          <text>
+            <libraryStone />
+            <number>2</number>
+            <size>0.04</size>
+            <prafix />
+            <quality>, tw, vs</quality>
+          </text>
+          <form_groove>1</form_groove>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>feines weiß mit sehr kleinen Einschlüssen</quality>
+            <quality_short>tw, vs</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Brillantschliff im Verschnitt</mounttype>
+            <type>Brillantschliff im Verschnitt</type>
+            <number>2</number>
+            <prafix />
+            <size>0,02</size>
+            <size_sum>0,04</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>15,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>I1</object>
+              <arrangement>A</arrangement>
+              <fine_positioning>no</fine_positioning>
+            </start_point>
+            <allocation>0</allocation>
+            <distance>
+              <abs>2,00</abs>
+              <factor>0,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>1,787</pos_x>
+                  <pos_y>2,729</pos_y>
+                  <no>4</no>
+                </pos>
+                <pos>
+                  <pos_x>-1,787</pos_x>
+                  <pos_y>1,771</pos_y>
+                  <no>5</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,70</width>
+            <length>1,70</length>
+            <height>1,00</height>
+            <diameter>1,70</diameter>
+            <clamping />
+            <keys>
+              <type>MA</type>
+              <quality />
+              <mounttype />
+              <form />
+              <stone_number>2</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>3</stone_no>
+          </stones>
+        </stone_groups>
+      </description>
+      <price>
+        <facon>183</facon>
+        <material>1.065</material>
+        <stone>264</stone>
+        <gravure>0</gravure>
+        <base_ring>1248</base_ring>
+        <base_stone>264</base_stone>
+        <base_ring_without_discount>1248</base_ring_without_discount>
+        <base_price>1512</base_price>
+        <stoneParts>109</stoneParts>
+        <stoneParts>61</stoneParts>
+        <stoneParts>94</stoneParts>
+        <dbourseParts>0</dbourseParts>
+        <dbourseParts>0</dbourseParts>
+        <dbourseParts>0</dbourseParts>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+    <articel>
+      <itemnumber>M-ZXS9U-GG5</itemnumber>
+      <order_position_id>3997540-2</order_position_id>
+      <supplierItemnumber />
+      <addon_text />
+      <size>
+        <dimension>64</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>1.474,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>Verena #S02 Markus #S05 24.07.2027</text>
+          <font_id>77</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Merii</brand>
+        <pline>13</pline>
+        <ring_type>1</ring_type>
+        <profile>(M1) innen und außen bombiert</profile>
+        <weight>6,78</weight>
+        <width>5,00</width>
+        <height>1,70</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>M1</profile>
+          <height>8</height>
+          <width>7</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>poliert</surface>
+          <width>2,50</width>
+          <height>1,70</height>
+          <ratio>50,00</ratio>
+          <weight>3,39</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>1</surface>
+          </keys>
+        </discs>
+        <discs>
+          <id>2</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>eismatt</surface>
+          <width>2,50</width>
+          <height>1,70</height>
+          <ratio>50,00</ratio>
+          <weight>3,39</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>8</surface>
+          </keys>
+        </discs>
+        <interstices>
+          <id>1</id>
+          <width>0,6</width>
+          <pos>2,5</pos>
+          <degree>0</degree>
+          <type>Wellenfuge U-Form</type>
+          <key>CFT24</key>
+        </interstices>
+      </description>
+      <price>
+        <facon>185</facon>
+        <material>1.183</material>
+        <stone>0</stone>
+        <gravure>0</gravure>
+        <base_ring>1368</base_ring>
+        <base_stone>0</base_stone>
+        <base_ring_without_discount>1368</base_ring_without_discount>
+        <base_price>1368</base_price>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+  </order>
+</package>

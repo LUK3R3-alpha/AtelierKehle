@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <status>100</status>
+  <command>reply</command>
+  <session_id>8eqpcvfn7nk1trljkh9aa2csso</session_id>
+  <order>
+    <order_id>3950418</order_id>
+    <order_type>T</order_type>
+    <delivery_date>08.12.2026</delivery_date>
+    <commission>Eggestein & Völkel</commission>
+    <shop>
+      <id>10030</id>
+      <name>123GOLD Trauringzentrum Magdeburg</name>
+      <id_se>10030</id_se>
+    </shop>
+    <addon_text />
+    <brand_id>13</brand_id>
+    <info_alerts>
+      <notes>0</notes>
+      <files>0</files>
+    </info_alerts>
+    <articel>
+      <itemnumber>M-1080ZC-GG5-1VUV9TZ</itemnumber>
+      <order_position_id>3950418-1</order_position_id>
+      <supplierItemnumber />
+      <addon_text>Bitte auf Gravurfreigabe warten und RW-Bestätigung.</addon_text>
+      <size>
+        <dimension>52</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>755,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>#S05 Justin 26.06.2027</text>
+          <font_id>83</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Merii</brand>
+        <pline>13</pline>
+        <ring_type>1</ring_type>
+        <profile>(M4) innen und außen leicht bombiert mit Glanzkante</profile>
+        <weight>2,54</weight>
+        <width>2,00</width>
+        <height>1,80</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>M4</profile>
+          <height>9</height>
+          <width>1</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>poliert</surface>
+          <width>1,00</width>
+          <height>1,80</height>
+          <ratio>50,00</ratio>
+          <weight>1,27</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>1</surface>
+          </keys>
+        </discs>
+        <discs>
+          <id>2</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>poliert</surface>
+          <width>1,00</width>
+          <height>1,80</height>
+          <ratio>50,00</ratio>
+          <weight>1,27</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>1</surface>
+          </keys>
+        </discs>
+        <stone_groups>
+          <text>
+            <libraryStone />
+            <number>2</number>
+            <size>0.01</size>
+            <prafix />
+            <quality>, r, if</quality>
+          </text>
+          <stones>
+            <form>Brillantschliff - rund</form>
+            <quality>river, lupenrein</quality>
+            <quality_short>r, if</quality_short>
+            <tower_setting>no</tower_setting>
+            <mounttype>Kanalfassung Brillant</mounttype>
+            <type>Kanalfassung Brillant</type>
+            <number>2</number>
+            <prafix />
+            <size>0,005</size>
+            <size_sum>0,01</size_sum>
+            <stone_angle>0,00</stone_angle>
+            <line_angle>90,00</line_angle>
+            <group>
+              <number>1</number>
+              <distance>0,00</distance>
+            </group>
+            <side>top</side>
+            <side_text>Auf dem Ring</side_text>
+            <start_point>
+              <object>R</object>
+              <arrangement>A</arrangement>
+              <fine_positioning>no</fine_positioning>
+            </start_point>
+            <allocation>1</allocation>
+            <distance>
+              <abs>0,00</abs>
+              <factor>0,00</factor>
+            </distance>
+            <stone_pos>
+              <group>
+                <pos>
+                  <pos_x>0</pos_x>
+                  <pos_y>1,55</pos_y>
+                  <no>1</no>
+                </pos>
+                <pos>
+                  <pos_x>0</pos_x>
+                  <pos_y>0,45</pos_y>
+                  <no>2</no>
+                </pos>
+              </group>
+            </stone_pos>
+            <width>1,00</width>
+            <length>1,00</length>
+            <height>0,67</height>
+            <diameter>1,00</diameter>
+            <clamping />
+            <keys>
+              <type>CA</type>
+              <quality />
+              <mounttype />
+              <form />
+              <stone_number>2</stone_number>
+              <alloy />
+            </keys>
+            <sinus_wave />
+            <dboerse />
+            <stone_special>no</stone_special>
+            <stone_no>1</stone_no>
+          </stones>
+        </stone_groups>
+      </description>
+      <price>
+        <facon>129</facon>
+        <material>561</material>
+        <stone>65</stone>
+        <gravure>0</gravure>
+        <base_ring>690</base_ring>
+        <base_stone>65</base_stone>
+        <base_ring_without_discount>690</base_ring_without_discount>
+        <base_price>755</base_price>
+        <stoneParts>65</stoneParts>
+        <dbourseParts>0</dbourseParts>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+    <articel>
+      <itemnumber>M-12A131-G5</itemnumber>
+      <order_position_id>3950418-2</order_position_id>
+      <supplierItemnumber />
+      <addon_text>Bitte auf Gravurfreigabe warten und RW-Bestätigung.</addon_text>
+      <size>
+        <dimension>57</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>1.149,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>#S05 Sarah 26.06.2027</text>
+          <font_id>83</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Merii</brand>
+        <pline>13</pline>
+        <ring_type>1</ring_type>
+        <profile>(M4) innen und außen leicht bombiert mit Glanzkante</profile>
+        <weight>4,87</weight>
+        <width>3,50</width>
+        <height>1,80</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>M4</profile>
+          <height>9</height>
+          <width>4</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>quermatt</surface>
+          <width>3,50</width>
+          <height>1,80</height>
+          <ratio>100,00</ratio>
+          <weight>4,87</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>4</surface>
+          </keys>
+        </discs>
+      </description>
+      <price>
+        <facon>142</facon>
+        <material>1.007</material>
+        <stone>0</stone>
+        <gravure>0</gravure>
+        <base_ring>1149</base_ring>
+        <base_stone>0</base_stone>
+        <base_ring_without_discount>1149</base_ring_without_discount>
+        <base_price>1149</base_price>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+  </order>
+</package>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <status>100</status>
+  <command>reply</command>
+  <session_id>nfopbg370oef9a5k9uhjari540</session_id>
+  <order>
+    <order_id>4002224</order_id>
+    <order_type>T</order_type>
+    <delivery_date>15.09.2026</delivery_date>
+    <commission>Pfeuffer</commission>
+    <shop>
+      <id>90010767</id>
+      <name>123GOLD Trauring-Zentrum Mainz</name>
+      <id_se />
+    </shop>
+    <addon_text />
+    <brand_id>18</brand_id>
+    <info_alerts>
+      <notes>0</notes>
+      <files>1</files>
+    </info_alerts>
+    <articel>
+      <itemnumber>Y-17NYLA-GG5</itemnumber>
+      <order_position_id>4002224-1</order_position_id>
+      <supplierItemnumber />
+      <addon_text>Ringe sind unterschiedlich</addon_text>
+      <size>
+        <dimension>54</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>1.102,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>siehe Vorlage</text>
+          <font_id>58</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Eternal Touch - MyStyle</brand>
+        <pline>65</pline>
+        <ring_type>1</ring_type>
+        <profile>(AA) innen und außen bombiert</profile>
+        <weight>4,24</weight>
+        <width>3,50</width>
+        <height>1,80</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>1</profile>
+          <height>9</height>
+          <width>4</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>poliert</surface>
+          <width>1,75</width>
+          <height>1,80</height>
+          <ratio>50,00</ratio>
+          <weight>2,12</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>1</surface>
+          </keys>
+        </discs>
+        <discs>
+          <id>2</id>
+          <alloy>Gelbgold 585/-</alloy>
+          <surface>quermatt</surface>
+          <width>1,75</width>
+          <height>1,80</height>
+          <ratio>50,00</ratio>
+          <weight>2,12</weight>
+          <keys>
+            <alloy>25</alloy>
+            <surface>4</surface>
+          </keys>
+        </discs>
+        <interstices>
+          <id>1</id>
+          <width>0,5</width>
+          <pos>1,75</pos>
+          <degree>0</degree>
+          <type>Saturnfuge U-Form</type>
+          <key>0</key>
+        </interstices>
+      </description>
+      <price>
+        <facon>147</facon>
+        <material>1.017</material>
+        <stone>0</stone>
+        <gravure>0</gravure>
+        <base_ring>1164</base_ring>
+        <base_stone>0</base_stone>
+        <base_ring_without_discount>1164</base_ring_without_discount>
+        <base_price>1164</base_price>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+    <articel>
+      <itemnumber>Y-224SD-D3</itemnumber>
+      <order_position_id>4002224-2</order_position_id>
+      <supplierItemnumber />
+      <addon_text />
+      <size>
+        <dimension>66</dimension>
+        <unit>1</unit>
+      </size>
+      <sales_price>
+        <price>998,00</price>
+        <currency>EUR</currency>
+      </sales_price>
+      <gravure>
+        <internal>
+          <text>siehe Vorlage</text>
+          <font_id>58</font_id>
+        </internal>
+        <external>
+          <text />
+          <font_id />
+        </external>
+      </gravure>
+      <module_id>6</module_id>
+      <description>
+        <brand>Eternal Touch - MyStyle</brand>
+        <pline>65</pline>
+        <ring_type>1</ring_type>
+        <profile>(AC) innen stark, außen leicht bombiert</profile>
+        <weight>8,37</weight>
+        <width>5,00</width>
+        <height>2,00</height>
+        <muster />
+        <modelName />
+        <basicModel />
+        <isBasicModel>no</isBasicModel>
+        <masterSet />
+        <keys>
+          <profile>3</profile>
+          <height>11</height>
+          <width>7</width>
+          <muster />
+          <supplier_itemnumber />
+        </keys>
+        <discs>
+          <id>1</id>
+          <alloy>Platin 600/-</alloy>
+          <surface>sandmatt</surface>
+          <width>5,00</width>
+          <height>2,00</height>
+          <ratio>100,00</ratio>
+          <weight>8,37</weight>
+          <keys>
+            <alloy>105</alloy>
+            <surface>5</surface>
+          </keys>
+        </discs>
+      </description>
+      <price>
+        <facon>295</facon>
+        <material>757</material>
+        <stone>0</stone>
+        <gravure>0</gravure>
+        <base_ring>1052</base_ring>
+        <base_stone>0</base_stone>
+        <base_ring_without_discount>1052</base_ring_without_discount>
+        <base_price>1052</base_price>
+        <highlight>
+          <ring_factor>1</ring_factor>
+          <stone_factor>1</stone_factor>
+        </highlight>
+      </price>
+    </articel>
+  </order>
+</package>
